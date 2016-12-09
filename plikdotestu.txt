@@ -1,0 +1,3 @@
+to jest plik do testu z konfliktem
+
+nowa linia
